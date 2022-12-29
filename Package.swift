@@ -27,5 +27,4 @@ let package = Package(
         .testTarget(
             name: "SlidingRulerTests",
             dependencies: ["SlidingRuler"]),
-    ]
-)
+    ])
